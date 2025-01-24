@@ -9,3 +9,6 @@ Este projeto tem como objetivo criar uma página de venda atrativa para o servi�
 
 ## Design Responsivo
   Este site foi projetado para ser responsivo, o que significa que ele se adapta automaticamente a diferentes tamanhos de tela, tornando-o fácil de usar em dispositivos móveis e desktops.
+
+## Screenshots
+![imagem](https://raw.githubusercontent.com/azrlsli/Alura-plus/refs/heads/main/printGif.gif)
